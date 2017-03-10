@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Assignment4" Database="" Version="10.0.0">
+  <Project Name="Q1SplitFiles" Path="Q1SplitFiles/Q1SplitFiles.project" Active="No"/>
+  <Project Name="Q2ClassHierarchy" Path="Q2ClassHierarchy/Q2ClassHierarchy.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Q1SplitFiles" ConfigName="Debug"/>
+      <Project Name="Q2ClassHierarchy" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Q1SplitFiles" ConfigName="Release"/>
+      <Project Name="Q2ClassHierarchy" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
